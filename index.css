@@ -12,7 +12,7 @@ body{
   width: auto;
   height: 100%;
   background: black;
-      background: url('https://faribucket.s3.amazonaws.com/Rectangle+(8).png');
+  background: url('https://faribucket.s3.amazonaws.com/Rectangle+(8).png');
   background: url('https://faribucket.s3.amazonaws.com/Rectangle+(10).png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -49,7 +49,7 @@ body{
   display: flex;
   flex-wrap: wrap;
   margin-top: 0;
-  background: rgba(255, 255, 255, 0.09);
+/*   background: rgba(255, 255, 255, 0.09); */
 }
 
 .text{
@@ -109,6 +109,7 @@ strong{
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
+  margin-top: 50px;
 }
 
 .container .card.one{ 
@@ -215,6 +216,7 @@ width: 100%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 50px;
 }
 
 .icons{
