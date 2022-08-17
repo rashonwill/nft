@@ -1,5 +1,5 @@
 # nft-me
-NFT Landing Page
+NFT Landing Page Concept
 
 
-NFT Landing PAGE
+https://rashonwill.github.io/nft-me/
